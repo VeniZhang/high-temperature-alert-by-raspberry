@@ -1,0 +1,12 @@
+[mail]
+mail_host = smtp.xxx.xxx
+mail_user = your email address 
+mail_pass = your code 
+mail_to = a@a.com b@b.com
+subject = high temperature
+
+[temperature]
+interval = 1
+
+[alert]
+threshold = 130
